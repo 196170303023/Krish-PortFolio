@@ -20,6 +20,8 @@ import {
   SiNextdotjs,
   SiSolidity,
   SiPostgresql,
+  SiDeno,
+  SiBun
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 

@@ -9,7 +9,7 @@ import {
   SiVercel,
   SiVmware,
   SiMacos,
-  SiAtom
+  SiAtom,
 } from "react-icons/si";
 
 function Toolstack() {
